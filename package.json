@@ -1,0 +1,19 @@
+{
+  "name": "team-generator2021",
+  "version": "1.0.0",
+  "description": "Team generator designed for managers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobBlack1/team-generator2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobBlack1/team-generator2021/issues"
+  },
+  "homepage": "https://github.com/JacobBlack1/team-generator2021#readme"
+}
